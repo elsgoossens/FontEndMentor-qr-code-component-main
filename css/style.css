@@ -17,12 +17,18 @@ body{
     font-weight: 15px;
     text-align: center;
     background-color: var(--light-gray);
+    display:flex; 
+    align-content:center; 
+    justify-content: center; 
+    min-height:100vh;
+
 }
 
 img{
     margin: 30px;
     width:288px;
     height:288px;
+    max-width:100%;
     display:inline-block;
     border-radius: 0.75em;
 }
@@ -37,17 +43,18 @@ h1{
 p{
     color:var(--grayish-blue);
     margin: 0 60px;
+    padding-bottom: 20px;
 }
 
-.container{
+/* .container{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     height: 100vh;
-}
+} */
 
 
-.inner-container{
+.container{
     background-color: var(--white);
     margin: auto;
     border-radius: 0.75rem;
