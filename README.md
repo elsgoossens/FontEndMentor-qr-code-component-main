@@ -21,6 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Add live site URL here](https://elsgoossens.github.io/FontEndMentor-qr-code-component-main/)
 
 ## My process
+- Draw design in Figma & decide on HTML structure
+- Add CSS and verify in chrome inspector
 
 ### Built with
 
@@ -37,4 +39,5 @@ Learned to use Figma to assess margins.
 
 ## Acknowledgments
 
-This was my 1st frontendmentor challenge, gotta admit it was less easy than expected, but I guess that is part of the learning :-) I looked at the solution of https://github.com/catherineisonline, this taught me to use Figma to assess margins.
+This was my 1st frontendmentor challenge, gotta admit it was less easy than expected, but I guess that is part of the learning :-) 
+I looked at the solution of https://github.com/catherineisonline, this taught me to use Figma to assess margins.
